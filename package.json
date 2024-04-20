@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kingstea/rerum-repellat-omnis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kingstea/rerum-repellat-omnis.git"
   },
   "dependencies": {
+    "@kingstea/dolorem-facilis-laudantium": "^1.0.0",
+    "@kingstea/studious-guacamole": "^1.0.0"
   }
 }
